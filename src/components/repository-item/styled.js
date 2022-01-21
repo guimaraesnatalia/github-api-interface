@@ -29,3 +29,10 @@ export const WrapperLink = styled.a`
   margin: 8px 0;
   color: #3182ce;
 `;
+
+export const WrapperLanguage = styled.h4`
+  font-size: 16px;
+  font-weight: bold;
+  margin: 8px 0;
+  color: #808080;
+`;
